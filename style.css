@@ -39,18 +39,13 @@ width: 40%;
    margin-left: 15%;
    margin-top: 15%;
 }
-.btn{
-    font-size: small;
-    margin-left:3px;
-    padding: 5px;
-    width: 50%;
-    position: absolute;
-    border: none;
-    margin-bottom: 10%;
-    
+#checkbox{
+    margin-left: 25px;
 }
-#agree{
-    margin: 10px;
+.one{
+    margin-top: -22px;
+    margin-left: 15px;
+
 }
 .fourth{
     margin-left: 15%;
@@ -137,7 +132,7 @@ width: 40%;
     background-color: rgb(186, 53, 97);
     font-size: 15px;
     border-radius: 5%;
-    margin-top: 15%;
+    margin-top: 8%;
 
 }
 h3 {
